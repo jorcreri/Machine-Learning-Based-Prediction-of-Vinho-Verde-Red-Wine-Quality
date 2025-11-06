@@ -1,0 +1,2 @@
+# Machine-Learning-Based-Prediction-of-Vinho-Verde-Red-Wine-Quality
+Project to predict Vinho Verde red wine quality using a machine-learning pipeline: preprocessing, feature engineering and PCA on physicochemical variables; compared SVM, k-NN and decision trees with cross-validation and model selection, and documented preprocessing steps, hyperparameter tuning, evaluation metrics and reproducible code.

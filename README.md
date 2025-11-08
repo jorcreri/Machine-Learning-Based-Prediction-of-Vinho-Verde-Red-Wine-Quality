@@ -1,5 +1,4 @@
 # Machine-Learning-Based-Prediction-of-Vinho-Verde-Red-Wine-Quality
-## Project Summary
 This repository contains all resources for a practical project focused on predicting the quality of *Vinho Verde* red wine using machine learning techniques. The study employs physicochemical variables as predictors, performing preprocessing and data cleaning (in R), dimensionality reduction through PCA, and classification experiments implemented in Julia. The full practicum report is included for further methodological details and results.
 
 ## Repository Contents
